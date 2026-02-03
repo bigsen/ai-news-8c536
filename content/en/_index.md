@@ -3,104 +3,99 @@ linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
 comments: true
-next: /en/2026-02/2026-02-02
+next: /en/2026-02/2026-02-03
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI News Daily Digest 2026/2/3 🚀
+## AI News Daily 2026/2/4
 
-> `AI News` | `Daily Brief` | `Web Data Aggregation` | `Cutting-Edge Science` | `Industry Voice` | `Open-Source Innovation` | `AI & Human Future` | [Visit Web Version](https://ai.hubtoday.app/) | [Join Our Chat Group 👋](https://source.hubtoday.app/logo/wechat-qun.jpg)
+> AI News | Daily Morning Read | Aggregated Web Data | Frontier Science Exploration | Industry Voice | Open Source Innovation Power | AI and Human Future | [Visit Web Version](https://ai.hubtoday.app/) | [Join Group Chat](https://source.hubtoday.app/logo/wechat-qun.jpg)
 
 ### Today's Highlights
 
 ```
-Microsoft reassesses after Win11's Copilot overload faces backlash
-Grok launches 10-second free video generation, challenging paid tools
-Qianwen App offers 3 billion for Spring Festival freebies, pivoting to life assistant
-Peking University & Stanford's SLDAgent enables AI to discover Scaling Laws autonomously
-Moltbook key leak allows spoofing Karpathy's account for posting
+OpenAI releases Codex desktop client supporting multi-agent independent thread execution
+Zhipu GLM-5 and MiniMax M2.2 to be released before Chinese New Year, focusing on programming and reasoning
+Tencent CL-bench reveals models solve only 17% of context learning tasks
+Musk merges SpaceX and xAI, valued at $1.25 trillion, pushing for space computing power
+Vibe Coding's first anniversary: its philosophy is to fully embrace LLMs and forget about code
 ```
 
 ### Product & Feature Updates
 
-1.  **Microsoft Windows 11's AI Overload Faces Backlash and Reassessment.**
-    Microsoft's aggressive integration of Copilot into Windows 11 has hit a wall, facing public backlash and prompting a full reassessment [Source (AI News)](https://newshacker.me/story?id=46854951). Critics are pointing fingers at the "AI everywhere" strategy, saying it went off the rails. Who thought jamming a Copilot button into Notepad was a good idea? 🤷‍♀️ Forced OneDrive integration and prioritizing web searches in the Start menu also got users seriously riled up. While this pullback might look like a quick PR fix, some doubt it's more than just a surface-level tweak, arguing that the underlying governance incentives haven't been touched.
+1.  **OpenAI releases Codex Desktop App.**
+    OpenAI's new Codex Desktop App is here! This bad boy is a dedicated [command center (AI News)](https://www.xiaohu.ai/c/xiaohu-ai/openai-codex-skills-5f0c89) for multi-agents, designed to tackle multiple tasks concurrently, way beyond simple Q&A code snippets. Each agent runs on its own independent thread, keeping things neatly organized by project. Plus, it lets multi-agents work on isolated copies using Git Worktree, and you can even define **custom skills** for synchronous use across the whole system. Super slick!
+    <br/>![AI News: OpenAI Codex Desktop App Multithreaded Task Management Interface](https://source.hubtoday.app/images/2026/02/news_01kgj2f2e1feg8hbxqpes5ep5x.avif)<br/>
 
-2.  **Grok Launches Imagine 1.0 Video Generation.**
-    Grok just dropped a cool new feature: Imagine 1.0, a 10-second video generation tool [View Details (AI News)](https://x.com/Gorden_Sun/status/2018201267798188158). It's got decent quality, super fast, and here's the kicker: it's **totally free**! 🤯 This move is a direct challenge to other paid video generation services, showing some serious commitment from Grok.<br/><video src="https://source.hubtoday.app/images/2026/02/news_01kgffr87mf0f9knha4yz9s1bx.mp4" controls="controls" width="100%"></video><br/>
-
-3.  **Qianwen App Splashes 3 Billion for Spring Festival Giveaways.**
-    Qianwen App is going big, announcing a whopping **3 billion CNY** investment for its Spring Festival freebie campaign [Learn More (AI News)](https://www.aibase.com/zh/news/25157). 🎉 Taobao Flash Sale, Fliggy, and Hema are all jumping in on the action, and an AI movie ticket purchasing feature is currently in grayscale testing. This massive move sees Qianwen transforming from a chat assistant into a full-blown life manager, officially launching on February 6th.<br/>![AI News: Qianwen App Spring Festival Promotion Page](https://source.hubtoday.app/images/2026/02/news_01kgffrcp2epgr0rz1yrex6sdw.avif)<br/>
-
-4.  **Ant Group Introduces AI Credit to Incentivize Company-Wide AI Adoption.**
-    Ant Group CEO Han Xinyi has rolled out an **AI Credit** program via an all-hands email [Details (AI News)](https://www.aibase.com/zh/news/25168). 💡 Contributors can snag extra incentives, with value improvements over two years convertible into SERs. The Bailing large model family already boasts 18 models, and Ant Aifu's monthly active users have rocketed past 30 million! 🚀 Han Xinyi frankly admits that this is just a small win for now.
-
-5.  **Kimi's Overseas Revenue Surpasses Domestic for the First Time.**
-    Kimi is spilling the beans: after the **K2.5** release, global paying users have quadrupled! 🔥 [Source (AI News)](https://www.aibase.com/zh/news/25135). Its Openrouter ranking has shot up to third place, right behind Claude and Gemini. Founder Yang Zhilin mentioned that using Agent Swarm for parallel processing has boosted efficiency by 3 to 10 times. Kimi is strategically positioning itself against Anthropic + Manus, and guess what? The model weights are already open-sourced!
+2.  **Zhipu GLM-5 and MiniMax M2.2 to Launch Before Chinese New Year.**
+    Get ready for Zhipu GLM-5 and MiniMax M2.2, dropping before February 15th! Zhipu AI's [GLM-5 model (AI News)](https://www.aibase.com/zh/news/25219) is set to debut with major breakthroughs in creative writing, programming, and reasoning. Meanwhile, MiniMax's **M2.2 version** is being hailed as a programmer's "secret weapon" for its seriously enhanced programming capabilities. DeepSeek only got minor V3 series updates, so we're still patiently waiting for their trillion-parameter flagship. And guess what? ByteDance and Alibaba are also gearing up to unleash some new models! Exciting times!
 
 ### Cutting-Edge Research
 
-1.  **Peking University & Stanford Enable AI to Discover Scaling Laws Autonomously.**
-    A research team just cooked up something cool: the SLDAgent, which lets AI discover its own scaling laws [Paper (AI News)](https://arxiv.org/abs/2507.21184)! 🚀 They built SLDBench, a benchmark with over 5,000 real experiments. Get this: the formulas discovered by the AI actually **outperform human experts** in prediction accuracy! 🤯 This work has already been accepted by ICLR 2026, using evolutionary algorithms to optimize both formulas and fitters simultaneously. Pretty neat, right?
+1.  **Tencent Hunyuan Releases CL-bench Evaluation Benchmark.**
+    Tencent Hunyuan just dropped their new CL-bench evaluation benchmark! This is Yao Shunyu's first co-authored [paper (AI News)](https://www.jiqizhixin.com/articles/2026-02-03-7) since joining Tencent, and it’s all about testing if models can actually learn new stuff from context and apply it right. The results? A bit of a reality check 😬: models only managed to solve an average of **17.2% of tasks**, and even the mighty GPT-5.1 only hit 23.7%. Ouch! It's clear that models are still struggling to truly utilize context.
 
-2.  **Warm-up Before Training Unlocks General Reasoning.**
-    A new paper proposes a two-stage training strategy [arXiv (AI News)](https://arxiv.org/abs/2505.13718). 🔥 First, a 'warm-up' using knight-and-knave logic puzzles, followed by RLVR with just a few target domain samples. Experiments show that this warm-up phase alone boosts performance on tasks like MATH and HumanEval+. The cool part? It can achieve great results with **fewer than 100 samples**! ✨
+2.  **ProjDevBench Evaluates AI End-to-End Project Development.**
+    ProjDevBench is here to evaluate AI's end-to-end project development skills. While many existing benchmarks are all about bug fixing, this [new benchmark (AI News)](https://arxiv.org/abs/2602.01655) specifically measures the ability to go from initial requirements all the way to a complete, functional repository. It features 20 coding challenges across 8 categories, combining OJ testing with **LLM code review**. The catch? Six coding agents only managed an overall pass rate of **27.38%**. Looks like complex system design is still a huge Achilles' heel for them 🤦‍♀️.
 
-3.  **VideoGPA Makes 3D Video Generation More Consistent.**
-    The VideoGPA framework tackles the tricky problem of **3D structural drift** in video diffusion models using geometric prior distillation [Paper (AI News)](https://arxiv.org/abs/2601.23286). 💡 It automatically generates preference signals via a geometric foundation model, then guides generation with DPO. The best part? No manual labeling needed! This significantly boosts temporal stability and motion coherence, making videos look much more solid.
+3.  **Reinforcement Learning Trains LLMs to Explain Human Decisions.**
+    Get ready for a cool [new direction (AI News)](https://arxiv.org/abs/2505.11614) in cognitive modeling: training LLMs to explain human decisions using reinforcement learning! Researchers are using outcome-based RL to guide LLMs in spitting out **explicit reasoning chains**. The big goal? To nail both predictive accuracy and crystal-clear, readable explanations at the same time. This means AI won't just be some mysterious black box; it'll finally be able to tell us *why* it does what it does. Pretty awesome, right? ✨
 
-4.  **AccidentSim Generates Realistic Car Crash Videos.**
-    This new study introduces AccidentSim, a system that generates collision videos by extracting physical information from real accident reports [arXiv (AI News)](https://arxiv.org/abs/2503.20654). 🚗 It recreates post-collision trajectories using a physics simulator, then renders the background with NeRF. Experiments show the videos are super impressive in both visual and **physical realism**. This is a game-changer for autonomous driving research, providing valuable data.
+4.  **Unstable Mechanisms in RLVR Training Revealed.**
+    So, the unstable mechanisms in RLVR training have been revealed! While verifiable reward [Reinforcement Learning (AI News)](https://arxiv.org/abs/2602.01103) is supposed to continuously boost reasoning, MoE architectures often just crash and burn. Researchers have now cooked up a **"goal-level hacking"** framework to explain this mess. The key takeaway? Token-level credit misalignment is creating bogus signals, causing a wild and abnormal growth in the train-inference discrepancy. What a headache! 😵‍💫
 
 ### Industry Outlook & Social Impact
 
-1.  **Qingcheng Jizhi Launches AI Ping Evaluation Platform.**
-    A Tsinghua-affiliated team has launched AI Ping, basically a 'Dianping for large model APIs' [Details (AI News)](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651014886&idx=1&sn=096a9e29f196f9c11e1a2c794e613e9f). 🔥 It conducts 24/7 real-time testing of 555 model interfaces, offering transparent comparisons across 30 service providers. Smart routing has boosted TPS by an insane **90%** and slashed costs by 37%! 🥳 Given that China's daily token consumption has skyrocketed 300-fold in 18 months, this tool couldn't have come at a better time.<br/>![AI News: AI Ping Platform Service Provider Performance Comparison Chart](https://source.hubtoday.app/images/2026/02/news_01kgffrk79fvka76x77cn8syyj.avif)<br/>
+1.  **Musk Announces SpaceX and xAI Merger.**
+    Well, the shoe has dropped! 🚀 Musk just announced the merger of SpaceX and xAI, creating a powerhouse valued at a staggering **$1.25 trillion**! In an [internal letter (AI News)](https://www.qbitai.com/2026/02/375614.html), Musk outlined plans to accelerate the deployment of space-based data centers. He's making a bold prediction: space-based AI is the *only* path to true scalability. The vision? Launching millions of satellites to build a massive **orbital data center** network, pushing us towards a Kardashev Type II civilization. Talk about out of this world! 🤯
 
-2.  **Kuaishou Initiates Special Governance for AI-Modified Videos.**
-    Kuaishou Safety Center announced a crackdown, dealing with **5576 pieces** of problematic content last month [Announcement (AI News)](https://www.aibase.com/zh/news/25167). 💪 The focus is on malicious tampering with China's Four Great Classical Novels and vulgar deconstruction of classic works. Eleven accounts received warnings and educational messages, and this governance will be ongoing. The platform is calling on users to join forces and report any violations. Let's keep things clean! 👮‍♀️<br/>![AI News: Kuaishou Platform AI Modded Video Governance Announcement Screenshot](https://source.hubtoday.app/images/2026/02/news_01kgffrp7ff3wbezg30rag47fq.avif)<br/>
+2.  **SpaceX Applies to Launch Millions of Computing Satellites.**
+    SpaceX is serious, applying to launch millions of computing satellites! The heart of this plan isn't about boosting comms; it's all about building an [orbital data center (AI News)](https://www.aibase.com/zh/news/25192). This constellation is projected to pack a total compute power of **80 EFLOPS**! By harnessing the cold vacuum of space, they're tackling those pesky heat dissipation issues head-on. Expect a launch in 2028 and completion by 2030. Honestly, traditional IDC vendors might be looking at a serious, game-changing blow. 🤯
 
-3.  **Li Xiang Spotlights Six Breakthrough AI Products.**
-    Li Xiang took to WeChat Moments to shout out six breakthrough AI products, including Claude Code, Doubao Phone, and Manus [Viewpoint (AI News)](https://x.com/dotey/status/2018241889275670770). 🔥 The big question for him is how to get AI to actually *do* work. He sees GUI Agents as the sweet spot: AI, with user authorization, can watch your screen and simulate clicks. Products like **Chrome Gemini**, Doubao Assistant, and OpenClaw are all paving the way in this direction.<br/>![AI News: Li Xiang's WeChat Moments AI Product Rundown Screenshot](https://source.hubtoday.app/images/2026/02/news_01kgffrsggftyrbms33gc2zbvr.avif)<br/>
+3.  **Tencent Hunyuan Attracts Another Top Scientist.**
+    Big news! Tencent Hunyuan just snagged another top-tier scientist. Tsinghua Ph.D. Pang Tianyu has officially joined the team as the [Chief Research Scientist (AI News)](https://www.aibase.com/zh/news/25199) in the Hunyuan Multimodal Department. His main gig? Diving deep into **reinforcement learning technology** research. Before this, he was doing his thing at Singapore's Sea AI Lab. This is a huge win, following hot on the heels of their recruitment of Yao Shunyu! Talk about building a dream team! ✨
 
 ### Top Open-Source Projects
 
-1.  **nanochat Tops the Open-Source Charts.**
-    Karpathy's nanochat is making waves, claiming you can build the best ChatGPT for just $100 [GitHub (AI News)](https://github.com/karpathy/nanochat)! 💰 It's already racked up over 41,478 stars ⭐, with developers loving its minimalist approach. The code is super clean and easy to read, perfect for learning and further development. Pretty sweet! ✨
+1.  **Superpowers: Agent Skill Framework.**
+    First up, **superpowers**! This is a seriously effective agent skill framework and software development methodology that's already racked up an impressive ⭐43,217 stars. You can check out the project on [GitHub (AI News)](https://github.com/obra/superpowers). It's designed to help developers build even more powerful AI agent systems. Pretty cool!
 
-2.  **ChatDev 2.0: Multi-Agent Collaborative Development.**
-    OpenBMB's ChatDev has just leveled up to version 2.0 [Project (AI News)](https://github.com/OpenBMB/ChatDev)! 🚀 This LLM-driven, multi-agent collaboration tool achieves **full-process development**, and with over 29,227 stars ⭐, its strength is undeniable. It's an end-to-end solution, from requirements to code—a true blessing for developers!
+2.  **Dexter: Deep Financial Research Agent.**
+    Next, we have **dexter**, an autonomous agent geared for deep financial research. This intelligent analysis tool, specifically built for the finance world, has already scored ⭐9,951 stars. Dive into the details on [GitHub (AI News)](https://github.com/virattt/dexter). Time to get those financial insights! 📈
 
-3.  **PageIndex: A New Vector-Free RAG Solution.**
-    VectifyAI's new PageIndex project is all about inference-based document indexing, ditching vector retrieval entirely [GitHub (AI News)](https://github.com/VectifyAI/PageIndex)! 📑 With over 12,305 stars ⭐, it takes a reasoning-first approach, offering a unique edge in understanding complex documents.
+3.  **CCPM: Claude Code Project Management System.**
+    Check out **ccpm**, the Claude Code project management system! It enables **parallel agent execution** by leveraging GitHub Issues and Git worktrees. This project has already snagged ⭐6,563 stars, and you can find it on [GitHub (AI News)](https://github.com/automazeio/ccpm). It's all about making multi-agent collaboration super efficient! 🚀
 
-4.  **Maestro: Agent Orchestration Command Center.**
-    pedramamini's Maestro project is designed to be the ultimate command center for agent orchestration [Project (AI News)](https://github.com/pedramamini/Maestro). 🎯 It's already garnered over 1,164 stars ⭐ and is growing fast, making it perfect for multi-agent scheduling scenarios.
+4.  **VM0: Natural Language Workflow Automation.**
+    Meet **vm0**, the project offering the simplest way to automatically run workflows described in natural language! With ⭐585 stars, this [Project (AI News)](https://github.com/vm0-ai/vm0) empowers you to define your workflows using plain English. How cool is that? ✨
+
+5.  **Review-Prompts: AI Review Prompts.**
+    Last but not least, **review-prompts**! This is a collection of prompts specifically designed for AI code review. With ⭐235 stars, you can grab the full content on [GitHub (AI News)](https://github.com/masoncl/review-prompts). Super useful for anyone using AI to scrutinize code! 👍
 
 ### Social Media Buzz
 
-1.  **Moltbook Vulnerability Allows Spoofing Karpathy's Posts.**
-    White-hat hackers have exposed a major security flaw in Moltbook [Details (AI News)](https://www.jiqizhixin.com/articles/2026-02-02-6). 🔓 A Supabase key was publicly exposed, meaning anyone could impersonate AI identities on the platform. Get this: even Karpathy's account, with 1.9 million followers, could be faked to post content! 😱 Apparently, hacker Nagli even used Openclaw to generate 500,000 fake users, proving that the registration data was completely bogus.
+1.  **Vibe Coding Concept Celebrates First Anniversary.**
+    Happy first anniversary to Andrej Karpathy's [Vibe Coding (AI News)](https://x.com/dotey/status/2018352113550577763) concept! 🎉 His core philosophy? Fully embrace LLMs and pretty much forget code even exists. Karpathy's take is that today's models are just too damn powerful; he even claims to only use voice to chat with Composer. Wild!
 
-2.  **Kimi Calls Out Baidu: Top Four Search Results Not Official Site.**
-    Moonshot AI's official Weibo publicly appealed to Baidu [Incident (AI News)](https://www.aibase.com/zh/news/25149). 🗣️ Turns out, the top four search results for "Kimi" weren't the official website—they were all ads! Baidu quickly fixed it, and Kimi deleted the related Weibo post. Neither party officially responded, but netizens definitely enjoyed the show. 😂<br/>![AI News: Baidu Search Results for Kimi Official Website Screenshot](https://source.hubtoday.app/images/2026/02/news_01kgffrwxke33s4gt4fvk8pcs6.avif)<br/>
+2.  **Codex App Experience: The Silent Engineer.**
+    User experience with the Codex App? Some folks are calling it the "silent engineer." One user's [review (AI News)](https://x.com/wwwgoubuli/status/2018649006591889833) pointed out that Codex just "gets its head down and works" without any fuss or fancy dashboards you'd see in other apps. Apparently, it's seriously lacking the "emotional value" that Claude Code provides. Talk about a personality deficit! 😅
 
-3.  **Supabase Free Plan: Tips for Deploying Multiple Products.**
-    Developer BigYe shared a clever money-saving trick for Supabase [Tutorial (AI News)](https://m.okjike.com/originalPosts/6980675a25bae56612732a27). 💡 By using schema isolation, you can get just two databases to support a whopping **10-20 products**! Plus, with AI-assisted migration, you can max out your free tier in just 5 minutes. And for only $25, you can snag dozens of times the free quota, making it an absolute bang-for-your-buck champion!
+3.  **Call for Unified Skills Directory Path.**
+    OpenAI developers are making a loud call for a unified skills directory path! They want all agents to consistently use the `[.agents/skills (AI News)](https://x.com/shao__meng/status/2018517484337602750)` folder for storing skill files. This would ditch all those fragmented, independent paths and stop us from drowning in a sea of duplicate directories. Make it happen, folks! 🙌
 
-4.  **OpenClaw Signals the End of the Session Concept.**
-    There's a hot take going around: after OpenClaw, session isolation should be a thing of the past [Discussion (AI News)](https://x.com/dotey/status/2018192550591377683). 🔥 Constantly starting new conversations forces users to adapt to machine limitations. The paradigm is shifting towards contextual fluid collapse. Only by shedding the legacy of 'sessions' can agents truly achieve a continuous 'life trajectory.' What do you think? 🤔
+4.  **Brex Company's Four-Level Classification of AI Capability.**
+    Someone shared Brex company's pretty cool four-level classification of employee AI capability! According to [Brex company (AI News)](https://x.com/vista8/status/2018639539036975489), there's the User (who can ask questions), the Advocate (who promotes tools), the Builder (who can actually make stuff), and the Native (who seamlessly integrates AI into their daily grind). So, where do *you* land on that scale? 🤔
 
-5.  **In AI's Eyes, Literary Style is Just a Probability Table.**
-    Huohua Seed got us thinking 💭 about how humans summarize to combat forgetting, while AI summarizes to combat chaos [Original Post (AI News)](https://m.okjike.com/originalPosts/69809765c5a1d4e64964ee70). From an AI's perspective, Lu Xun's literary style is simply a modified probability table and a set of word gravity parameters. The 'soul' of literature, it seems, has become a digital fingerprint—harsh but true.
+5.  **Discussion on Learning to Code Strategies in the AI Era.**
+    There's a super hot discussion brewing on Hacker News about strategies for [learning to code in the AI era (AI News)](https://newshacker.me/story?id=46866165)! The main takeaways? You gotta solidify your **algorithm and architecture** fundamentals, view LLMs as your trusty mentors (not the be-all, end-all authority), and embrace that deliberate struggle to truly learn. Some people are even getting a bit anxious that coding itself might become totally commoditized. Food for thought! 🤯
 
 ---
 
-## AI News Daily Digest: Audio Version
+## AI News Daily Audio Edition
 
 | 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
 | --- | --- |
-| [Afterlife Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
-| ![Afterlife Tavern](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [Lai Sheng Pub](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
+| ![Pub](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intel Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
