@@ -3,75 +3,92 @@ linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
 comments: true
-next: /en/2026-02/2026-02-13
+next: /en/2026-02/2026-02-14
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI News Daily: February 14, 2026
+## AI News Daily 2026/2/15
 
-> `AI News` | `Daily Brief` | `Aggregated Data` | `Frontier Science` | `Industry Voice` | `Open-Source Power` | `AI & Human Future` | [Visit Web Version↗️](https://ai.hubtoday.app/) | [Join Group Chat🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
+> 📰 AI News | ☀️ Daily Brief | 🌐 Web Data Aggregation | 🧪 Cutting-Edge Science Exploration | 🗣️ Industry Voice | 💡 Open Source Innovation Power | 🤖 AI and Humanity's Future | [Visit Web Version ↗️](https://ai.hubtoday.app/) | [Join Group Chat 🤝](https://source.hubtoday.app/logo/wechat-qun.jpg)
 
-### **Today's Summary**
+### Today's Rundown
 
 ```
-GLM-5 drops the strongest domestic open-source model, rivaling GPT.
-Google's Gemini 3 Deep Thinker edition smashes inference SOTA.
-Anthropic bags massive funding, valuation soars, revenue explodes.
-Xiaohongshu implements strict new rules for mandatory AI content labeling.
-Tsinghua-Peking University unveil new benchmark focusing on embodied AI's physical common sense.
+ByteDance launches Doubao 2.0 and Seedance video model
+Tongyi Qianwen partners with Damai & Fliggy for AI-powered consumption
+China's first AIGC animated film 'Tuanyuan Ling' sets release date
+MiniMax open-sources M2.5 model, strongly competing with closed-source models
+Chrome introduces WebMCP protocol to standardize Agent interaction
 ```
 
 ### Product & Feature Updates
 
-1.  **GLM-5 has dropped, and it's a total game-changer for domestic AI!** This bad boy isn't just a toy; it's the strongest domestic [open-source model (AI News)](https://www.jiqizhixin.com/articles/2026-02-13-8) out there, with benchmark performance rivaling GPT-5.3. We're talking about a true **System Architect** here, folks! It handles complex tasks, zaps bugs automatically ⚡️, and its efficiency is absolutely mind-blowing. Devs were practically tripping over themselves to get their hands on it, causing servers to crash from the sheer demand! 🔥
+1.  **ByteDance's full-modal large models just dropped!**
+    ByteDance just dropped a bombshell, launching Doubao 2.0 and the [Seedance Video Model (AI News)](https://www.jiqizhixin.com/articles/2026-02-14-8)! This new video generation tech supports 15-second ⏱️ high-dynamic scenes, and its physics simulation is mind-blowing🤯. The Pro model is even going head-to-head with GPT-5.2 on math and coding skills 🚀. Plus, their Seedream 5.0 image model 🎨 now features real-time retrieval. Looks like this whole product suite update is geared up to dominate the Chinese New Year market ⚔️.
 
-2.  **Google's Gemini 3 Deep Thinker edition is smashing records left and right!** Led by Chinese scientist Yao Shunyu 🚀, its inference capabilities have [reached SOTA (AI News)](https://www.qbitai.com/2026/02/379596.html). It scored a whopping 84.6% on ARC-AGI-2, leaving only 7 humans in its dust (seriously!). This powerhouse is built to tackle tough scientific and engineering challenges; it can even **design 3D-printed** models. With drastically reduced costs, its future applications are totally limitless! 🌈<br/>![AI News: Gemini 3 model-designed 3D-printed laptop stand](https://source.hubtoday.app/images/2026/02/news_01khbq6f47ezbsv17088by742h.gif)<br/>
+2.  **Tongyi Qianwen is stepping up its Chinese New Year giveaway game.**
+    Tongyi Qianwen is stepping up its game with a massive Chinese New Year giveaway, integrating with [Damai & Fliggy (AI News)](https://www.qbitai.com/2026/02/380204.html) to create fresh AI-powered shopping experiences! Users can now snag movie tickets and plane fares using just their voice 🗣️. During the event, everyone gets 🎫 10 free passes. This move has pushed daily active users to a new record 📈 for app growth in recent years. Google's Gemini is right on their heels, also adding shopping features 🛒.
 
-3.  **Xiaohongshu has dropped its strictest AI content management rules yet.** If you post synthetic content, it *must* have a clear label ⚠️, or your traffic will get [deducted (AI News)](https://www.aibase.com/zh/news/25515). They're cracking down hard on impersonating celebs and those demonic edits of classics 👹. To keep community trust high, algorithms 🕵️ will auto-detect suspicious AI. Creators, remember to ✅ declare your AI content when you hit publish!<br/>![AI News: Xiaohongshu App's AI content labeling interface](https://source.hubtoday.app/images/2026/02/news_01khbq6ktpebat3dvr74r6rwa0.avif)<br/>
+3.  **China's first-ever AIGC animated film, 'Tuanyuan Ling', is officially set to hit screens.**
+    China's first-ever AIGC animated film, 'Tuanyuan Ling' 🎬, is officially set to hit screens on [Feb 28 (AI News)](https://www.aibase.com/zh/news/25542)! The production cycle for this flick was slashed from three years ⚡ down to a mere six months. AI ✨ was used end-to-end to generate characters and scenes. The production team even managed to conquer tricky issues like stiff micro-expressions 🤯. This is a prime example of new quality productive forces making waves in the cultural sector 🎞️.
 
-4.  **Hengdian World Studios just dropped its first AI-powered Chinese-style anime series on Tencent Video!** Named [Jiuzhou Muyun Lu (AI News)](https://www.aibase.com/zh/news/25533), it blends AI tech with classical Oriental aesthetics 🎨. Each episode clocks in at a snappy 2.5 minutes, perfect for our fast-paced lives ⚡. From special effects to storyboarding, AI was deeply involved in the **entire production chain**. This is a huge step for film and TV production, transforming it towards intelligent creation! 🎬<br/>
+4.  **Google Chrome's team has rolled out a WebMCP Preview.**
+    Google Chrome's team 🛠️ has rolled out a [WebMCP Preview (AI News)](https://x.com/dotey/status/2022392133827932255)! This protocol sets a new standard for how websites and AI Agents 🤝 can communicate. It lets websites actively expose 👀 structured tool interfaces, meaning Agents won't have to clumsily 🤖 guess DOM operations anymore. Get ready for a huge leap in the reliability of automated web tasks 🌐!
 
-5.  **Thunderobot Technology is going all-in on the AI hardware market!** They're aiming for a whopping 50% overseas revenue 🎯, and their stock is climbing against the tide 📈. At CES, they showcased a bunch of [new AI terminal products (AI News)](https://www.aibase.com/zh/news/25529), from PCs to smart glasses 👓. They're driving growth by replacing older tech with AI, aiming to grab the **consumer market high ground**.
+### Cutting-Edge Research
 
-### Frontier Research
+1.  **Tencent's research team just dropped GradLoc Technology as open source.**
+    Tencent's research team 🧪 just dropped [GradLoc Technology (AI News)](https://www.jiqizhixin.com/articles/2026-02-14-4) as open source! This slick tool can pinpoint 🎯 the exact tokens causing training crashes. It tackles those pesky 📉 gradient spike issues in RLVR training, turning model fine-tuning from a mystical art 🔮 back into a scientific diagnosis. Expect this infrastructure upgrade to really speed up algorithm iterations 🚀.
 
-1.  **WorldArena, a new benchmark by Tsinghua and Peking Universities, is here to prove that strong vision doesn't automatically mean competence.** It's smashing the ["image quality only" theory (AI News)](https://www.jiqizhixin.com/articles/2026-02-13-7) by focusing on physical consistency 🌍. Robots need to understand physics, not just generate pretty videos 🎥. Functional intelligence is just getting started, and this is like the **driving test** for embodied AI. You could ace the vision part and still flunk the task! 💡
+2.  **The GigaBrain VLA model is seriously boosting robot capabilities.**
+    The GigaBrain VLA model is seriously boosting robot capabilities by hooking up with [World Model RL (AI News)](https://arxiv.org/abs/2602.12099)! It's chalking up a 30% improvement on tasks like laundry and folding clothes 👕. By pre-training spatio-temporal reasoning with web video data 🌐, it's finally overcoming traditional models' limitations in understanding the future 🧠. Live demos are showing off its reliable long-range execution capabilities 🤖.
 
-2.  **The SToRM framework is bringing a new "slimming" solution to multimodal large models for autonomous driving.** It achieves [efficient token reduction (AI News)](https://arxiv.org/abs/2602.11656), slashing computational costs by a whopping 30 times 📉. It maintains full token performance while also handling human instructions seamlessly 💡. By using sliding window prediction, it precisely retains **key information**, clearing the path 🧹 for vehicle-side deployment.
+3.  **The SToRM multimodal large model is all about enabling super-efficient end-to-end driving.**
+    The SToRM multimodal large model is all about enabling super-efficient [end-to-end driving (AI News)](https://arxiv.org/abs/2602.11656) 🚗! It uses a lightweight predictor ⚖️ to filter visual tokens, maintaining performance while slashing computation by a whopping 30 times ⚡. By leveraging auxiliary paths 🔗 for supervisory signals, it finally tackles the pain point of limited in-car computing resources 💾.
 
-3.  **Context files for code Agents might actually be doing more harm than good!** A new study found that [AGENTS.md (AI News)](https://arxiv.org/abs/2602.11988) actually *decreases* task success rates ❌. All those redundant requirements hike up costs and make the models more easily confused 🤯. Experts suggest humans should only provide the **absolute minimum requirements**, with files just containing the 🔧 core logic.
+4.  **HyPO is the new kid on the block, looking to fix DPO's training mismatch.**
+    HyPO is the new kid on the block, looking to 🔧 fix DPO's [training mismatch (AI News)](https://arxiv.org/abs/2602.11902)! It applies conditional debiasing to pessimistic samples 🚫, stopping models from getting satisfied too early 🛑 when they're wrong. The best part? You can integrate it with just a one-liner code change 💻. This method has seriously boosted ⚖️ pairwise win rates and alignment.
 
 ### Industry Outlook & Social Impact
 
-1.  **Anthropic just closed a mind-blowing $30 billion funding round!** Its valuation has shot up to $380 billion, with Claude Code becoming its main [revenue engine (AI News)](https://x.com/shao__meng/status/2022138692991885716). Annualized revenue is soaring past $2.5 billion 🚀, and enterprise users 👥 are growing like crazy. They're all-in on a multi-cloud strategy, with **massive hardware expansion** underway. Get this: 4% of all global GitHub commits now come from 🤖 Claude!
+1.  **Ars Technica, the renowned tech publication, had to retract an article.**
+    Ars Technica, the renowned tech publication 🤦, had to retract an article because of [AI fabricated quotes (AI News)](https://newshacker.me/me/story?id=47013059). The piece fake-quoted a Matplotlib maintainer 👴, sparking a trust crisis over news authenticity ☣️. Critics are pointing fingers at commercialization 💸 for the dip in editorial quality. This incident is a stark reminder of how media outlets are struggling in the AI era 📉.
 
-2.  **OpenClaw has exposed tens of thousands of instances, revealing shocking security vulnerabilities!** Researchers found [numerous malicious skills (AI News)](https://www.reddit.com/r/MachineLearning/comments/1r30nzv/d_we_scanned_18000_exposed_openclaw_instances_and/) capable of stealing data 🕵️, making it nearly impossible to defend against. Agent permissions are way too broad, like handing over the keys 🔑 to your entire digital life. With a lack of community oversight, the risk of supply chain attacks ⚠️ is only getting worse. Users, beware of 🔒 hosting risks!
+2.  **Hacker News is buzzing about the complex impact of AI on the job market.**
+    Hacker News is buzzing 💼 about the complex impact of AI on the [job market (AI News)](https://newshacker.me/story?id=47006513). Shifting tasks doesn't necessarily mean 🚫 job disappearance. The main risk source? Management's drive to cut costs 📉. Memory and collaboration are still major technical bottlenecks 🚧. But hey, seasoned pros might just benefit immensely from 🙆‍♂️ human-AI collaboration!
 
-3.  **Waymo's sixth-generation driver has sparked a massive debate about its technical approach.** It sticks to multi-modal sensing, using Lidar and visual [fusion perception (AI News)](https://newshacker.me/story?id=46990578) 👀. The definition of "fully autonomous" is getting a lot of pushback ⚡. Does remote assistance count as **human intervention**? Data silos and regulation are becoming the biggest hurdles 🚧 for its real-world deployment.
+3.  **The OpenAI team has pulled back the curtain on their internal Agent Development Handbook.**
+    The OpenAI team has pulled back the curtain on their 🧠 internal [Agent Development Handbook (AI News)](https://x.com/shao__meng/status/2022576768775868506)! Engineers are now evolving into 🏗️ environment designers rather than just coders. They're boosting Agent execution power through architectural constraints 📏. For knowledge management, they're using a 📚 progressive disclosure strategy. The big takeaway: humans stay at the helm ⚓, while Agents handle the execution.<br/>![AI News: OpenAI Internal Agent Engineering Architecture Diagram](https://source.hubtoday.app/images/2026/02/news_01khe50yavej18y4ytakhtr0rt.avif)<br/>
 
-### TOP Open-Source Projects
+4.  **SenseTime's SenseCore just aced a national-level security assessment!**
+    SenseTime's SenseCore ☁️ just aced a [national-level security assessment (AI News)](https://www.qbitai.com/2026/02/380375.html)! It snagged an "Excellent" rating certificate for software supply chain security 🛡️, by building out a full lifecycle 🔄 risk management system. This seriously marks its computing foundation 🧱 as industry-leading in terms of security. Big props for helping industries build a trusted AI infrastructure 🏭!
 
-1.  **An AI infrastructure designed to amplify human capabilities.** This is a [Personal AI System (AI News)](https://github.com/danielmiessler/Personal_AI_Infrastructure) focused on agentic architecture. It's already racked up ⭐7.8k stars and aims to build an ecosystem of **personal AI agents**.
+### Open Source TOP Projects
 
-2.  **DebugSwift is an essential debugging toolkit for iOS developers.** This tool [DebugSwift (AI News)](https://github.com/DebugSwift/DebugSwift) simplifies the app debugging process. With ⭐1.3k stars, it's super powerful and seriously boosts **development efficiency**.
-
-3.  **Synkra AIOS is a core framework for full-stack AI orchestration systems.** [Synkra AIOS (AI News)](https://github.com/SynkraAI/aios-core) just dropped its v4.0 release. It helps build **AI operating systems** and has already gathered ⭐317 stars.
+1.  **React Generative UI Development Kit.**
+    This 🧱 is a [UI Generation SDK (AI News)](https://github.com/tambo-ai/tambo) specifically designed for React, with ⭐9.4k stars.
+2.  **Full-Stack AI Operating System Core Framework.**
+    This is Synkra's 🧠 AI orchestration system's [Core Framework (AI News)](https://github.com/SynkraAI/aios-core), boasting ⭐0.5k stars.
+3.  **Open-Source AI Colleague with Memory.**
+    This [AI Collaboration Partner (AI News)](https://github.com/rowboatlabs/rowboat) has 💾 long-term memory capabilities, with ⭐5.6k stars.
+4.  **No-Code LLM Unstructured Data ETL.**
+    It's a platform for building unstructured 📂 document processing [pipeline platforms (AI News)](https://github.com/Zipstack/unstract), sporting ⭐6.1k stars.
 
 ### Social Media Shares
 
-1.  **Letta is transforming Agent memory into local files!** It uses Git for [version management (AI News)](https://x.com/shao__meng/status/2022196641936331096), supporting multi-branch concurrent thinking 🧠. This means you can **manage memories** just like you manage code, with clear, traceable structures 👀. Super neat!<br/>![AI News: Context Repositories Architecture Diagram](https://source.hubtoday.app/images/2026/02/news_01khbq6sb2e0vbrem7582tnrf6.avif)<br/>
+1.  **Vercel just dropped an open-source component for rendering JSON right within chats!**
+    Vercel just dropped an open-source component 🧩 for [rendering JSON (AI News)](https://x.com/Gorden_Sun/status/2022504724298371260) right within chats!<br/><video src="https://source.hubtoday.app/images/2026/02/news_01khe51bzceg6a5xnchpzd4g12.mp4" controls="controls" width="100%"></video><br/>
 
-2.  **Seedance 2.0 is blowing up the internet, and the secret sauce? Prompts!** A blogger has curated over 170 high-quality [Chinese prompt libraries (AI News)](https://m.okjike.com/originalPosts/698e78ac800201ac68979756). These cover all sorts of styles, helping you generate **blockbuster-level videos** 🎬. GitHub is constantly updated, so go hit that save button 🏃‍♂️!<br/>![AI News: Seedance Prompt Repository Page on GitHub](https://source.hubtoday.app/images/2026/02/news_01khbq6w21e5eay6ge7f7pmfja.avif)<br/>
-
-3.  **The AI era is absolutely brimming with money-making opportunities for everyday folks!** The trick is to spot real-life business chances and quickly build products using AI 🤖. Social media acts as a mega-amplifier, but ultimately, your [execution power (AI News)](https://x.com/Yangyixxxx/status/2022179152976388385) determines success or failure. This is totally a **monetization mindset** worth adopting! <br/>![AI News: Mind Map of AI Money-Making Cases](https://source.hubtoday.app/images/2026/02/news_01khbq6y2kemxr18sd6681x8x8.avif)<br/>
+2.  **A blogger has analyzed how ByteDance has built a perfect business closed-loop.**
+    A blogger has analyzed how ByteDance 📊 has built a [perfect business closed-loop (AI News)](https://x.com/Yangyixxxx/status/2022516342151393608), raking in cash from both the tools and advertising!
 
 ---
 
-## **AI News Daily: Audio Edition**
+## **AI News Daily Voice Edition**
 
 | 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
 | --- | --- |
-| [Laisheng Xiaojiuguan (Afterlife Tavern)](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
-| ![Xiaojiuguan](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [The Next Life Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
+| ![Little Tavern](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
