@@ -4,22 +4,25 @@ type: about
 sidebar:
   exclude: true
 ---
-#### Hexi2077 / justlovemaki
+#### 何夕2077 / justlovemaki
 
-> My coding journey: A decade of code, feeling a bit cold, with unspoken frustrations. But now, sensing the AI revolution, I'm ready to dive in and make some waves in the cloud! 🚀
+> A decade of code, fingertips chill,
+> Unvoiced passions within me still.
+> Then AI's storm, a thunderous call,
+> I vow to rise, and give my all.
 
-#### My Code Philosophy
+#### My Coding Philosophy
 
-> Technology: It's all about serving the people. 💖
+> Technology serves the people.
 
 #### Featured Projects
 
-*   **[Open Source Contribution / CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   AI Image Generation Script: This bad boy is built on Cloudflare Workers. 🎨
-*   **[Open Source Contribution / CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   Content Aggregation & Generation Platform: Powered by Cloudflare Workers, this platform dishes out daily AI insights! Expect the latest industry news, trending open-source projects, cutting-edge research, and even hot takes from tech influencers. 🧠📰
-*   My GitHub: Wanna dive deeper? Check out my [GitHub](https://github.com/justlovemaki) for all the juicy project details! 👇
+*   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
+    *   This AI image generation script leverages Cloudflare Workers.
+*   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
+    *   This content aggregation and generation platform is powered by Cloudflare Workers. It daily curates the latest AI developments, including industry news, trending open-source projects, cutting-edge academic papers, and tech influencer social media commentary.
+*   For more project details, check out my [GitHub](https://github.com/justlovemaki).
 
 #### Current Explorations
 
-LLM Applications & Website SEO: I'm diving deep into these, learning and getting hands-on! Super excited about the possibilities. 💡📈
+LLM applications and website SEO are areas I'm deeply passionate about, and I'm actively engaged in learning and practical application.
